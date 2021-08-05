@@ -1,10 +1,10 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
+    "imagebaseurl":"https://NMR-Code.github.io/",
+    "name": "Nelson Rosado",
     "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "linkedinId":"808Melo",
+    "twitterid": "Your twitterid",
+    "roleDescription": "I like dabbling in all the various parts of software development and like to learn about new technologies, read books or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
